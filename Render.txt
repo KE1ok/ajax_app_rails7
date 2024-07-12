@@ -1,0 +1,4 @@
+Render
+Internal Database URL:postgresql://ajaxapp_production_r112_user:KjXbVkV6XrcT9K2C1rBloYZvRiHbFVMI@dpg-cq8ff7ij1k6c73cjnu60-a/ajaxapp_production_r112
+
+External Database URL:postgresql://ajaxapp_production_r112_user:KjXbVkV6XrcT9K2C1rBloYZvRiHbFVMI@dpg-cq8ff7ij1k6c73cjnu60-a.ohio-postgres.render.com/ajaxapp_production_r112
